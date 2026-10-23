@@ -157,3 +157,9 @@ I'm interested in learning, sharing ideas, and collaborating on meaningful techn
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35A7FF,50:088395,100:071952&height=100&section=footer" width="100%" alt="Decorative blue footer"/>
 
 </div>
+
+<div align="center">
+
+<img src="PASTE_THE_FULL_IMAGE_URL_HERE" width="100%" alt="GitHub contribution animation"/>
+
+</div>
