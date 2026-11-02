@@ -102,26 +102,6 @@ An interactive application designed to help users practise technical, coding, HR
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/harini020306">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub account statistics"/>
-</a>
-
-<a href="https://github.com/harini020306">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=harini020306&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
