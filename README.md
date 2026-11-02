@@ -1,9 +1,4 @@
-
 <!-- ==================== HEADER ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071952,50:088395,100:35A7FF&height=200&section=header&text=HARINI%20K&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20Healthcare%20AI%20%7C%20Embedded%20Systems&descAlignY=60&descSize=16" width="100%" alt="Harini K - AI and Embedded Systems banner"/><!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
