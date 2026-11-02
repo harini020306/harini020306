@@ -102,16 +102,6 @@ An interactive application designed to help users practise technical, coding, HR
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini020306&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - Strengthen my Python and machine learning fundamentals.
