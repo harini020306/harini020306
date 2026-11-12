@@ -162,11 +162,17 @@ Predicts if a booking may get cancelled.
 </tr>
 </table>
 
+> 🔗 Add the repository link under each project after confirming the public repo URL.
+
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
+
+### 📈 Daily Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini020306&bg_color=0D1117&color=35A7FF&line=088395&point=FFFFFF&area=true&area_color=088395&hide_border=true&title_color=35A7FF" width="100%" alt="Daily GitHub contribution activity graph"/>
 
 ### 🟩 Contribution Calendar
 
