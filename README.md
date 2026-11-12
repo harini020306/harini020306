@@ -162,8 +162,6 @@ Predicts if a booking may get cancelled.
 </tr>
 </table>
 
-> 🔗 Add the repository link under each project after confirming the public repo URL.
-
 ---
 
 ## 📊 GitHub Activity
