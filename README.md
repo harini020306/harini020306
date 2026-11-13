@@ -151,11 +151,9 @@ I practise Python every day in VS Code and push my programs to GitHub, so you ca
 
 ## 📊 GitHub Activity
 
-[![GitHub contribution calendar](https://ghchart.rshah.org/088395/harini020306)](https://github.com/harini020306)
-
-
 <div align="center">
 
+[![GitHub contribution calendar](https://ghchart.rshah.org/088395/harini020306)](https://github.com/harini020306)
 <img src="https://streak-stats.demolab.com/?user=harini020306&hide_border=true" alt="GitHub streak" />
 
 </div>
