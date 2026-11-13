@@ -82,7 +82,7 @@ Removes background noise from audio using a pretrained model.
 
 `Python` `Streamlit` `PyTorch` `Torchaudio` `DeepFilterNet`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME)
+🔗 [Code](https://github.com/harini020306/Adaptive-speech-enhancement)
 ---
 
 ### 🦴 Early Osteoarthritis Detection
