@@ -152,6 +152,14 @@ I practise Python every day in VS Code and push my programs to GitHub, so you ca
 ## 📊 GitHub Activity
 
 [![GitHub contribution calendar](https://ghchart.rshah.org/088395/harini020306)](https://github.com/harini020306)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=harini020306&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
