@@ -1,36 +1,17 @@
-<!-- ==================== HEADER ==================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:071952,50:088395,100:35A7FF&height=240&section=header&text=HARINI%20K&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=AI%2FML%20%7C%20Healthcare%20AI%20%7C%20Embedded%20Systems&descAlignY=64&descSize=18" width="100%" alt="Harini K - AI and Embedded Systems banner"/>
+![Harini K banner](https://capsule-render.vercel.app/api?type=venom&color=0:071952,50:088395,100:35A7FF&height=240&section=header&text=HARINI%20K&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=AI%2FML%20%7C%20Healthcare%20AI%20%7C%20Embedded%20Systems&descAlignY=64&descSize=18)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35A7FF&center=true&vCenter=true&width=700&height=55&lines=Final-Year+ECE+Student+%F0%9F%8E%93;Building+Healthcare+AI+Solutions+%F0%9F%A9%BA;Turning+Sensors+%2B+ML+into+Real+Products+%F0%9F%94%8C;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%9A%80" alt="Animated introduction"/>
-</a>
+[![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35A7FF&center=true&vCenter=true&width=700&height=55&lines=Final-Year+ECE+Student+%F0%9F%8E%93;Building+Healthcare+AI+Solutions+%F0%9F%A9%BA;Turning+Sensors+%2B+ML+into+Real+Products+%F0%9F%94%8C;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%9A%80)](https://github.com/harini020306)
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-harini020306-181717?style=for-the-badge&logo=github)](https://github.com/harini020306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harini-k-061878326/)
+[![Email](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harini020306@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=harini020306&label=Profile+Views&color=088395&style=for-the-badge" alt="Profile views"/>
-
-<p>
-  <a href="https://github.com/harini020306">
-    <img src="https://img.shields.io/badge/GitHub-harini020306-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harini-k-061878326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Harini020306/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:harini020306@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/badge/CGPA-9.3%2F10-35A7FF?style=flat-square" alt="CGPA"/>
-<img src="https://img.shields.io/badge/Graduating-2027-088395?style=flat-square" alt="Graduating 2027"/>
-<img src="https://img.shields.io/badge/Award-Project_EXPO_3rd_Prize-FFD700?style=flat-square" alt="Award"/>
+![Open to work](https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-9.3%2F10-35A7FF?style=flat-square)
+![Graduating 2027](https://img.shields.io/badge/Graduating-2027-088395?style=flat-square)
+![Award](https://img.shields.io/badge/Award-Project_EXPO_3rd_Prize-FFD700?style=flat-square)
 
 </div>
 
@@ -40,14 +21,14 @@
 
 > **I build AI that listens, predicts and helps — from noisy audio to joint sounds to hospital-style data.**
 
-I am a final-year **Electronics and Communication Engineering** student at **Nehru Institute of Engineering & Technology** (CGPA **9.3/10**). I like to combine **AI/ML + embedded hardware**, so my projects do not stay only in notebooks — they run as real apps and real circuits.
+I am a final-year **Electronics and Communication Engineering** student at **Nehru Institute of Engineering & Technology** (CGPA **9.3/10**). I like to combine **AI/ML + embedded hardware**, so my projects do not stay only in notebooks. They run as real apps and real circuits.
 
 ```python
 class Harini:
-    role      = "Final-Year ECE Student"
-    focus     = ["AI/ML", "Healthcare AI", "IoT & Embedded"]
-    languages = ["Python", "Java", "C", "SQL"]
-    now       = "Building projects + practising DSA daily on LeetCode"
+    role        = "Final-Year ECE Student"
+    focus       = ["AI/ML", "Healthcare AI", "IoT & Embedded"]
+    languages   = ["Python", "Java", "C", "SQL"]
+    now         = "Building projects + daily Python practice"
     looking_for = "Internship / entry-level role in Software, AI/ML or Embedded"
 
     def say_hi(self):
@@ -58,33 +39,29 @@ class Harini:
 
 ## 🏆 Highlights
 
-| | |
-|---|---|
-| 🥉 | **Third Prize** — Project EXPO, **VIHANSA 2026** (Sri Ramakrishna Institute of Technology) |
-| 🎓 | **CGPA 9.3 / 10** in B.E. ECE (2023 – 2027) |
-| 🚀 | **5+ projects** across Healthcare AI, predictive analytics, speech and IoT |
-| 🧠 | **Daily LeetCode** practice to sharpen DSA and problem solving |
-| ☁️ | Deployed ML apps with **Streamlit** |
+|    |                                                                                            |
+| --- | ------------------------------------------------------------------------------------------ |
+| 🥉  | **Third Prize** — Project EXPO, **VIHANSA 2026** (Sri Ramakrishna Institute of Technology) |
+| 🎓  | **CGPA 9.3 / 10** in B.E. ECE (2023 – 2027)                                                |
+| 🚀  | **5+ projects** across Healthcare AI, predictive analytics, speech and IoT                 |
+| 🐍  | **Daily Python practice** to build strong coding fundamentals                              |
+| ☁️  | Deployed ML apps with **Streamlit**                                                        |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-### Languages
+![Languages](https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" alt="Languages"/>
+**AI / ML and Tools**
 
-### AI / ML and Tools
+![AI and tools](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,git,github,vscode&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas,numpy,git,github,vscode&theme=dark" alt="AI and tools"/>
+**Hardware and IoT**
 
-### Hardware and IoT
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Hardware"/>
-
-</div>
+![Hardware](https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark)
 
 **Also work with:** `Streamlit` · `Jupyter Notebook` · `Google Colab` · `MATLAB` · `ESP32` · `OOP` · `DSA` · `Figma` · `Blender`
 
@@ -92,100 +69,92 @@ class Harini:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔊 Adaptive Noise Cancellation
 **AI/ML speech enhancement app**
 
 Removes background noise from audio using a pretrained model.
-
 - Listen to original vs enhanced audio
 - Compare waveforms before and after
-- Control enhancement strength, download output
+- Control enhancement strength and download the output
+
+<!-- Add one result line here, e.g. **Result:** how much noise was reduced -->
+<!-- Add a screenshot: ![App screenshot](screenshots/noise-cancellation.png) -->
 
 `Python` `Streamlit` `PyTorch` `Torchaudio` `DeepFilterNet`
 
-</td>
-<td width="50%" valign="top">
+🔗 [Code](https://github.com/harini020306/REPO-NAME) · [Live demo](LIVE-DEMO-LINK)
+
+---
 
 ### 🦴 Early Osteoarthritis Detection
 **Phonoarthrography + ML (Healthcare AI)**
 
 Studies joint sounds to help detect osteoarthritis early.
-
 - Audio signals + machine learning
-- Raspberry Pi 3B+, MAX9814 mic amplifier, MCP3008 ADC
+- Hardware: Raspberry Pi 3B+, MAX9814 mic amplifier, MCP3008 ADC
+
+<!-- Add one result line here, e.g. **Result:** model accuracy -->
+<!-- Add a photo of your circuit: ![Hardware setup](screenshots/hardware.png) -->
 
 `Python` `AI/ML` `Raspberry Pi` `Signal Acquisition`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🔗 [Code](https://github.com/harini020306/REPO-NAME)
+
+---
 
 ### 🏠 House Price Prediction
 **Regression model with a web interface**
 
 Predicts house price from area, bedrooms, bathrooms and location features.
-
 - Clean Streamlit UI to try the model live
+
+<!-- Add one result line here, e.g. **Result:** R² score or error value -->
+<!-- Add a screenshot: ![App screenshot](screenshots/house-price.png) -->
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-</td>
-<td width="50%" valign="top">
+🔗 [Code](https://github.com/harini020306/REPO-NAME) · [Live demo](LIVE-DEMO-LINK)
+
+---
 
 ### 🏨 Hotel Booking Cancellation Prediction
 **Classification model**
 
 Predicts if a booking may get cancelled.
+- Data preprocessing, model training and prediction
 
-- Data preprocessing, model training, prediction
+<!-- Add one result line here, e.g. **Result:** accuracy / F1 score -->
 
 `Python` `Pandas` `Scikit-learn`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+🔗 [Code](https://github.com/harini020306/REPO-NAME)
+
+---
 
 ### 🎤 AI Interview Coach
 **Practice technical, coding, HR and aptitude questions**
 
 - Questions at different difficulty levels
 
+<!-- Add a screenshot: ![App screenshot](screenshots/interview-coach.png) -->
+
 `Python` `Streamlit` `Google Gemini`
 
-</td>
-</tr>
-</table>
+🔗 [Code](https://github.com/harini020306/REPO-NAME) · [Live demo](LIVE-DEMO-LINK)
+
+---
+
+## 🐍 Daily Python Practice
+
+I practise Python every day in VS Code and push my programs to GitHub, so you can see my real code, not only my projects.
+
+🔗 [python-practice](https://github.com/harini020306/python-practice)
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-### 📈 Daily Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harini020306&bg_color=0D1117&color=35A7FF&line=088395&point=FFFFFF&area=true&area_color=088395&hide_border=true&title_color=35A7FF" width="100%" alt="Daily GitHub contribution activity graph"/>
-
-### 🟩 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/088395/harini020306" width="100%" alt="GitHub contribution calendar"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harini020306&show_icons=true&theme=tokyonight&hide_border=true&title_color=35A7FF&icon_color=088395&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini020306&layout=compact&theme=tokyonight&hide_border=true&title_color=35A7FF" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harini020306&theme=tokyonight&hide_border=true&ring=35A7FF&fire=088395&currStreakLabel=35A7FF" alt="GitHub streak"/>
-
-</div>
+[![GitHub contribution calendar](https://ghchart.rshah.org/088395/harini020306)](https://github.com/harini020306)
 
 ---
 
@@ -203,27 +172,21 @@ Predicts if a booking may get cancelled.
 
 - [x] Build and deploy ML apps with Streamlit
 - [x] Win recognition for projects (VIHANSA 2026)
-- [ ] Strengthen Python, ML and DSA fundamentals every day
+- [ ] Practise Python every day and strengthen ML and DSA fundamentals
 - [ ] Build more AI + healthcare + embedded projects with clear documentation
-- [ ] Land an internship / entry-level role in software, AI/ML or embedded
 
 ---
 
 ## 🤝 Let's Connect
 
-I am open to **internships and entry-level opportunities** in **Software, AI/ML and Embedded Technology**. If you have an idea, a project or an opening — I would love to talk.
+I am open to **internships and entry-level opportunities** in **Software, AI/ML and Embedded Technology**. If you have an idea, a project or an opening, I would love to talk.
 
-<div align="center">
-
-<a href="https://github.com/harini020306">GitHub</a> •
-<a href="https://www.linkedin.com/in/harini-k-061878326/">LinkedIn</a> •
-<a href="https://leetcode.com/u/Harini020306/">LeetCode</a> •
-<a href="mailto:harini020306@gmail.com">Email</a>
-
-<br/><br/>
+[GitHub](https://github.com/harini020306) • [LinkedIn](https://www.linkedin.com/in/harini-k-061878326/) • [Email](mailto:harini020306@gmail.com)
 
 ⭐ *If you like my work, drop a star on a repo!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35A7FF,50:088395,100:071952&height=120&section=footer" width="100%" alt="Decorative blue footer"/>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:35A7FF,50:088395,100:071952&height=120&section=footer)
 
 </div>
