@@ -110,7 +110,7 @@ Predicts house price from area, bedrooms, bathrooms and location features.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME) 
+🔗 [Code](https://github.com/harini020306/AI-ML_HOUSE_PRICE_PREDICTION) 
 
 ---
 
@@ -124,7 +124,7 @@ Predicts if a booking may get cancelled.
 
 `Python` `Pandas` `Scikit-learn`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME)
+🔗 [Code](https://github.com/harini020306/AI-ML_HOTEL_BOOKING_CANCELLATION_PREDICTION)
 
 ---
 
@@ -137,7 +137,7 @@ Predicts if a booking may get cancelled.
 
 `Python` `Streamlit` `Google Gemini`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME) 
+🔗 [Code](https://github.com/harini020306/AI-Interview-Question-Generator) 
 
 ---
 
