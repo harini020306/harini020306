@@ -82,7 +82,7 @@ Removes background noise from audio using a pretrained model.
 
 `Python` `Streamlit` `PyTorch` `Torchaudio` `DeepFilterNet`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME) · 
+🔗 [Code](https://github.com/harini020306/REPO-NAME)
 ---
 
 ### 🦴 Early Osteoarthritis Detection
@@ -97,8 +97,6 @@ Studies joint sounds to help detect osteoarthritis early.
 
 `Python` `AI/ML` `Raspberry Pi` `Signal Acquisition`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME)
-
 ---
 
 ### 🏠 House Price Prediction
@@ -112,7 +110,7 @@ Predicts house price from area, bedrooms, bathrooms and location features.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME) · [Live demo](LIVE-DEMO-LINK)
+🔗 [Code](https://github.com/harini020306/REPO-NAME) 
 
 ---
 
@@ -139,7 +137,7 @@ Predicts if a booking may get cancelled.
 
 `Python` `Streamlit` `Google Gemini`
 
-🔗 [Code](https://github.com/harini020306/REPO-NAME) · [Live demo](LIVE-DEMO-LINK)
+🔗 [Code](https://github.com/harini020306/REPO-NAME) 
 
 ---
 
