@@ -145,7 +145,7 @@ Predicts if a booking may get cancelled.
 
 I practise Python every day in VS Code and push my programs to GitHub, so you can see my real code, not only my projects.
 
-🔗 [python-practice](https://github.com/harini020306/python-practice)
+🔗 [python-practice](https://github.com/harini020306/python_basics)
 
 ---
 
