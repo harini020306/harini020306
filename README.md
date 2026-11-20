@@ -69,36 +69,6 @@ class Harini:
 
 ## 🚀 Featured Projects
 
-### 🔊 Adaptive Noise Cancellation
-**AI/ML speech enhancement app**
-
-Removes background noise from audio using a pretrained model.
-- Listen to original vs enhanced audio
-- Compare waveforms before and after
-- Control enhancement strength and download the output
-
-<!-- Add one result line here, e.g. **Result:** how much noise was reduced -->
-<!-- Add a screenshot: ![App screenshot](screenshots/noise-cancellation.png) -->
-
-`Python` `Streamlit` `PyTorch` `Torchaudio` `DeepFilterNet`
-
-🔗 [Code](https://github.com/harini020306/Adaptive-speech-enhancement)
----
-
-### 🦴 Early Osteoarthritis Detection
-**Phonoarthrography + ML (Healthcare AI)**
-
-Studies joint sounds to help detect osteoarthritis early.
-- Audio signals + machine learning
-- Hardware: Raspberry Pi 3B+, MAX9814 mic amplifier, MCP3008 ADC
-
-<!-- Add one result line here, e.g. **Result:** model accuracy -->
-<!-- Add a photo of your circuit: ![Hardware setup](screenshots/hardware.png) -->
-
-`Python` `AI/ML` `Raspberry Pi` `Signal Acquisition`
-
----
-
 ### 🏠 House Price Prediction
 **Regression model with a web interface**
 
@@ -140,6 +110,37 @@ Predicts if a booking may get cancelled.
 🔗 [Code](https://github.com/harini020306/AI-Interview-Question-Generator) 
 
 ---
+
+### 🔊 Adaptive Noise Cancellation
+**AI/ML speech enhancement app**
+
+Removes background noise from audio using a pretrained model.
+- Listen to original vs enhanced audio
+- Compare waveforms before and after
+- Control enhancement strength and download the output
+
+<!-- Add one result line here, e.g. **Result:** how much noise was reduced -->
+<!-- Add a screenshot: ![App screenshot](screenshots/noise-cancellation.png) -->
+
+`Python` `Streamlit` `PyTorch` `Torchaudio` `DeepFilterNet`
+
+🔗 [Code](https://github.com/harini020306/Adaptive-speech-enhancement)
+
+---
+### 🦴 Early Osteoarthritis Detection
+**Phonoarthrography + ML (Healthcare AI)**
+
+Studies joint sounds to help detect osteoarthritis early.
+- Audio signals + machine learning
+- Hardware: Raspberry Pi 3B+, MAX9814 mic amplifier, MCP3008 ADC
+
+<!-- Add one result line here, e.g. **Result:** model accuracy -->
+<!-- Add a photo of your circuit: ![Hardware setup](screenshots/hardware.png) -->
+
+`Python` `AI/ML` `Raspberry Pi` `Signal Acquisition`
+
+---
+
 
 ## 🐍 Daily Python Practice
 
